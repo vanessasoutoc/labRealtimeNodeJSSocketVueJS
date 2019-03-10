@@ -1,5 +1,4 @@
-# Creating a Real-Time Analytics Dashboard with NodeJs, Socket.io, and Vue.js
 
-This code is for the tutorial on creating a real-time website analytics dashboard using NodeJs, Socket.io, and Vue.js.
+# labRealtimeNodeJSSocketVueJS
+A real-time analitycs dashboard with NodeJS, Socket.io and Vue.JS
 
-Check out the full tutorial at [coligo](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
