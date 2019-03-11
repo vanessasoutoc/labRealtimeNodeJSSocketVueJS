@@ -10,7 +10,7 @@ var config = require('./config.js');
 // on the site
 var visitorsData = {};
 
-app.set('port', (process.env.PORT || 5000));
+app.set('port', (process.env.API_PORT || 5000));
 
 // serve the static assets (js/dashboard.js and css/dashboard.css)
 // from the public/ directory
